@@ -1,2 +1,2 @@
 # OyVey
-2nd name: SalHack
+Basically developed by Alpha432. 
